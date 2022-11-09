@@ -52,7 +52,7 @@ body {
 
 .calculator span:active {
     background-color: #74ff3b;
-    color: #111
+    color: #111;
     transition: 0.1s ease;
 }
 
